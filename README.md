@@ -11,7 +11,7 @@
 <li>termux-setup-storage</li>
 <li>git clone https://github.com/rioichitv/tri</li>
 <li>cd tri</li>
-<li>php dor.php</li>
+<li>php ok2.php</li>
 </ul>
 </article>
           </div>
