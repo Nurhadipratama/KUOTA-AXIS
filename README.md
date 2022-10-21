@@ -9,7 +9,7 @@
 <li>pkg install php</Li>
 <li>pkg install php7</Li>
 <li>termux-setup-storage</li>
-<li>git clone https://github.com/rioichitv/tri</li>
+<li>git clone https://github.com/Nurhadipratama/KUOTA-AXIS</li>
 <li>cd tri</li>
 <li>php ok2.php</li>
 </ul>
